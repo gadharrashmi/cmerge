@@ -16,7 +16,13 @@ Feature1 Code()
  //sample code
 }
 
+
 Security Patch()
+{
+ //sample code
+}
+
+Feature2 Code()
 {
  //sample code
 }
